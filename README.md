@@ -26,7 +26,7 @@ Core Fitness provides a simple and organized platform where users can explore gy
 ### Workout Plans
 - Cutting Plan
 - Bulking Plan
--Maintenance Plan
+- Maintenance Plan
 
 
 ### Goal Guide (Bulking / Cutting / Maintenance / Athlete + InBody)
